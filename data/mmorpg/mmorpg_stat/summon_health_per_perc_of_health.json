@@ -1,0 +1,14 @@
+{
+  "data": {
+    "add_to": "summon_health",
+    "adder_stat": "health",
+    "base": 0.0,
+    "ele": "Physical",
+    "id": "summon_health_per_perc_of_health",
+    "max": 2.14748365E9,
+    "min": 0.0,
+    "perc": true,
+    "scale": "NONE"
+  },
+  "ser": "one_to_other"
+}

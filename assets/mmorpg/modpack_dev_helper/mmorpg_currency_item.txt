@@ -1,0 +1,22 @@
+These are all default registry entries of this type.
+This registry can't be modified or added to.
+affix_tier_up_down
+socket_adder
+entangled_quality
+level_up_orb
+mastery_seal5
+orb_of_quality
+sharpening_stone5
+entangled_unique_reroll
+sharpening_stone0
+sharpening_stone3
+sharpening_stone4
+sharpening_stone1
+unique_reroll
+sharpening_stone2
+entangled_affix_upgrade
+mastery_seal2
+mastery_seal1
+mastery_seal4
+mastery_seal3
+mastery_seal0
